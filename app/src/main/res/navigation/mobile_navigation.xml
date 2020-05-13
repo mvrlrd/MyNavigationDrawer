@@ -31,9 +31,9 @@
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="ru.mvrlrd.mynavigationdrawer.ui.gallery.GalleryFragment"
+        android:name="ru.mvrlrd.mynavigationdrawer.ui.gallery.ProgressbarFragment"
         android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        tools:layout="@layout/fragment_progressbar" />
 
     <fragment
         android:id="@+id/nav_slideshow"
